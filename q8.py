@@ -50,3 +50,4 @@ print(set_new)
 print("\nQ.8(e)")
 set_e=set_d-set_uf
 print("\nA new set of all Integers in the range 1 to 10 that are not in Set1,Set2 and Set3.")
+print(set_e)
